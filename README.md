@@ -35,7 +35,7 @@ Call ``` getWeights()``` to return the adjusted weights after the network traini
 ```c++
 vector<vector<double>> adjusted = som.getWeights();
 ```
-To get the point cluster, call ```getCluster()``` to get the cluster index in the adjusted weights vector
+To get a point’s cluster, call ```getCluster()``` which will return the cluster’s index in the adjusted weights vector
 ```c++
 int clusterIndex = som.getCluster(data[i]);
 ```
