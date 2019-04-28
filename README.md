@@ -1,0 +1,2 @@
+# SelfOrganizingMap
+Kohonen Self-organizing
