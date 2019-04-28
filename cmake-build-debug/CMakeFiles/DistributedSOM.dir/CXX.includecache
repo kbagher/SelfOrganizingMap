@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kassem/CLionProjects/DistributedSOM/SOM.h
+SOM.h
+/Users/kassem/CLionProjects/DistributedSOM/SOM.h
+cmath
+/Users/kassem/CLionProjects/DistributedSOM/cmath
+cfloat
+/Users/kassem/CLionProjects/DistributedSOM/cfloat
+vector
+-
+list
+/Users/kassem/CLionProjects/DistributedSOM/list
+
+/Users/kassem/CLionProjects/DistributedSOM/SampleCode.cpp
+iostream
+-
+SOM.h
+/Users/kassem/CLionProjects/DistributedSOM/SOM.h
+
